@@ -1,5 +1,5 @@
 A = input("digite algo: ")
-print("o tipo primitovo desse valor é ?", type(A))
+print("o tipo primitivo desse valor é ?", type(A))
 print("é um numero?", A.isnumeric())
 print("tem espaco?", A.isspace())
 print("tem letra?", A.isalpha())
